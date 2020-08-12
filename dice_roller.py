@@ -1,6 +1,5 @@
 # Super simple dice roll program
-# Enjoy!
-# Pull requests are always welcome!
+# Fun fact: this program has only 11 lines of code!
 
 import random
 import tkinter as tk
